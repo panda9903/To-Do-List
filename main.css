@@ -9,14 +9,14 @@
     width: 100%;
     height: 100vh;
     padding: 10px;
-    background: linear-gradient(45deg, #fa39b0, #1426a8);    
+    background: linear-gradient(720deg, #ff5945, white);    
 }
 
 .todo-app{
     width: 100%;
     max-width: 540px;
     background: #fff;
-    margin: 100px auto 20px;
+    margin: 20px auto 20px;
     padding: 40px 30px 20px;
     border-radius: 10px;
 }
