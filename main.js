@@ -1,6 +1,7 @@
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
-
+const addBtn = document.getElementById("add-btn");
+addBtn.addEventListener("click", addTask);
 function addTask(){
     if(inputBox.value === ''){
         alert("Task cannot be empty!");
